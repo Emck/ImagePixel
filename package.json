@@ -1,0 +1,15 @@
+{
+  "name": "imagepixel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ImagePixel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jimp": "^0.6.0",
+    "sharp": "^0.21.3",
+  }
+}
